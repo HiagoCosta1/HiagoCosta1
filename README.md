@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Hiago Costa 
+# 👨🏻‍💻 Hiago Costa 
 **`Desenvolvedor Back-End`**
 
 Olá! Me chamo Hiago Costa, tenho 25 anos e sou natural de São Paulo. Atualmente, curso Ciência da Computação na Unisantos, onde estou desenvolvendo habilidades em programação, estrutura de dados, algoritmos e desenvolvimento web.
